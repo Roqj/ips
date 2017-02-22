@@ -1,0 +1,965 @@
+INSERT INTO forum_core_banfilters ( ban_type, ban_content, ban_date, ban_reason )
+SELECT 'email','*@0-mail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@0815.ru', '1487764559', ''
+UNION ALL
+SELECT 'email','*@0clickemail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@0wnd.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@0wnd.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@10minutemail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@20minutemail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@2prong.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@30minutemail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@3d-painting.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@4warding.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@4warding.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@4warding.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@60minutemail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@675hosting.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@675hosting.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@675hosting.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@6url.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@75hosting.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@75hosting.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@75hosting.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@7tags.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@9ox.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@a-bc.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@afrobacon.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@ajaxapp.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@amilegit.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@amiri.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@amiriindustries.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@anonbox.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@anonymbox.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@antichef.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@antichef.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@antispam.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@baxomale.ht.cx', '1487764559', ''
+UNION ALL
+SELECT 'email','*@beefmilk.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@binkmail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@bio-muesli.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@bobmail.info', '1487764559', ''
+UNION ALL
+SELECT 'email','*@bodhi.lawlita.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@bofthew.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@brefmail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@broadbandninja.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@bsnow.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@bugmenot.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@bumpymail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@casualdx.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@centermail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@centermail.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@chogmail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@choicemail1.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@cool.fr.nf', '1487764559', ''
+UNION ALL
+SELECT 'email','*@correo.blogos.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@cosmorph.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@courriel.fr.nf', '1487764559', ''
+UNION ALL
+SELECT 'email','*@courrieltemporaire.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@cubiclink.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@curryworld.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@cust.in', '1487764559', ''
+UNION ALL
+SELECT 'email','*@dacoolest.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@dandikmail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@dayrep.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@deadaddress.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@deadspam.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@despam.it', '1487764559', ''
+UNION ALL
+SELECT 'email','*@despammed.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@devnullmail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@dfgh.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@digitalsanctuary.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@discardmail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@discardmail.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@Disposableemailaddresses:emailmiser.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@disposableaddress.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@disposeamail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@disposemail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@dispostable.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@dm.w3internet.co.ukexample.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@dodgeit.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@dodgit.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@dodgit.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@donemail.ru', '1487764559', ''
+UNION ALL
+SELECT 'email','*@dontreg.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@dontsendmespam.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@dump-email.info', '1487764559', ''
+UNION ALL
+SELECT 'email','*@dumpandjunk.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@dumpmail.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@dumpyemail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@e4ward.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@email60.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@emaildienst.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@emailias.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@emailigo.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@emailinfive.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@emailmiser.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@emailsensei.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@emailtemporario.com.br', '1487764559', ''
+UNION ALL
+SELECT 'email','*@emailto.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@emailwarden.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@emailx.at.hm', '1487764559', ''
+UNION ALL
+SELECT 'email','*@emailxfer.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@emz.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@enterto.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@ephemail.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@etranquil.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@etranquil.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@etranquil.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@explodemail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@fakeinbox.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@fakeinformation.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@fastacura.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@fastchevy.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@fastchrysler.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@fastkawasaki.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@fastmazda.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@fastmitsubishi.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@fastnissan.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@fastsubaru.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@fastsuzuki.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@fasttoyota.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@fastyamaha.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@filzmail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@fizmail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@fr33mail.info', '1487764559', ''
+UNION ALL
+SELECT 'email','*@frapmail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@front14.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@fux0ringduh.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@garliclife.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@get1mail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@get2mail.fr', '1487764559', ''
+UNION ALL
+SELECT 'email','*@getonemail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@getonemail.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@ghosttexter.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@girlsundertheinfluence.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@gishpuppy.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@gowikibooks.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@gowikicampus.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@gowikicars.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@gowikifilms.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@gowikigames.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@gowikimusic.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@gowikinetwork.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@gowikitravel.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@gowikitv.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@great-host.in', '1487764559', ''
+UNION ALL
+SELECT 'email','*@greensloth.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@gsrv.co.uk', '1487764559', ''
+UNION ALL
+SELECT 'email','*@guerillamail.biz', '1487764559', ''
+UNION ALL
+SELECT 'email','*@guerillamail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@guerillamail.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@guerillamail.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@guerrillamail.biz', '1487764559', ''
+UNION ALL
+SELECT 'email','*@guerrillamail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@guerrillamail.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@guerrillamail.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@guerrillamail.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@guerrillamailblock.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@h.mintemail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@h8s.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@haltospam.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@hatespam.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@hidemail.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@hochsitze.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@hotpop.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@hulapla.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@ieatspam.eu', '1487764559', ''
+UNION ALL
+SELECT 'email','*@ieatspam.info', '1487764559', ''
+UNION ALL
+SELECT 'email','*@ihateyoualot.info', '1487764559', ''
+UNION ALL
+SELECT 'email','*@iheartspam.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@imails.info', '1487764559', ''
+UNION ALL
+SELECT 'email','*@inboxclean.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@inboxclean.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@incognitomail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@incognitomail.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@incognitomail.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@insorg-mail.info', '1487764559', ''
+UNION ALL
+SELECT 'email','*@ipoo.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@irish2me.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@iwi.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@jetable.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@jetable.fr.nf', '1487764559', ''
+UNION ALL
+SELECT 'email','*@jetable.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@jetable.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@jnxjn.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@junk1e.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@kasmail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@kaspop.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@keepmymail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@killmail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@killmail.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@kir.ch.tc', '1487764559', ''
+UNION ALL
+SELECT 'email','*@klassmaster.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@klassmaster.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@klzlk.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@kulturbetrieb.info', '1487764559', ''
+UNION ALL
+SELECT 'email','*@kurzepost.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@letthemeatspam.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@lhsdv.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@lifebyfood.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@link2mail.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@litedrop.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@lol.ovpn.to', '1487764559', ''
+UNION ALL
+SELECT 'email','*@lookugly.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@lopl.co.cc', '1487764559', ''
+UNION ALL
+SELECT 'email','*@lortemail.dk', '1487764559', ''
+UNION ALL
+SELECT 'email','*@lr78.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@m4ilweb.info', '1487764559', ''
+UNION ALL
+SELECT 'email','*@maboard.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mail-temporaire.fr', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mail.by', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mail.mezimages.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mail2rss.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mail333.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mail4trash.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mailbidon.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mailblocks.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mailcatch.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@maileater.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mailexpire.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mailfreeonline.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mailin8r.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mailinater.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mailinator.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mailinator.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mailinator2.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mailincubator.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mailme.ir', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mailme.lv', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mailmetrash.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mailmoat.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mailnator.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mailnesia.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mailnull.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mailshell.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mailsiphon.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mailslite.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mailzilla.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mailzilla.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mbx.cc', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mega.zik.dj', '1487764559', ''
+UNION ALL
+SELECT 'email','*@meinspamschutz.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@meltmail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@messagebeamer.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mierdamail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mintemail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@moburl.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@moncourrier.fr.nf', '1487764559', ''
+UNION ALL
+SELECT 'email','*@monemail.fr.nf', '1487764559', ''
+UNION ALL
+SELECT 'email','*@monmail.fr.nf', '1487764559', ''
+UNION ALL
+SELECT 'email','*@msa.minsmail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mt2009.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mx0.wwwnew.eu', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mycleaninbox.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mypartyclip.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@myphantomemail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@myspaceinc.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@myspaceinc.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@myspaceinc.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@myspacepimpedup.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@myspamless.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@mytrashmail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@neomailbox.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@nepwk.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@nervmich.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@nervtmich.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@netmails.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@netmails.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@netzidiot.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@neverbox.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@no-spam.ws', '1487764559', ''
+UNION ALL
+SELECT 'email','*@nobulk.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@noclickemail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@nogmailspam.info', '1487764559', ''
+UNION ALL
+SELECT 'email','*@nomail.xl.cx', '1487764559', ''
+UNION ALL
+SELECT 'email','*@nomail2me.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@nomorespamemails.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@nospam.ze.tc', '1487764559', ''
+UNION ALL
+SELECT 'email','*@nospam4.us', '1487764559', ''
+UNION ALL
+SELECT 'email','*@nospamfor.us', '1487764559', ''
+UNION ALL
+SELECT 'email','*@nospamthanks.info', '1487764559', ''
+UNION ALL
+SELECT 'email','*@notmailinator.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@nowmymail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@nurfuerspam.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@nus.edu.sg', '1487764559', ''
+UNION ALL
+SELECT 'email','*@nwldx.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@objectmail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@obobbo.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@oneoffemail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@onewaymail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@online.ms', '1487764559', ''
+UNION ALL
+SELECT 'email','*@oopi.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@ordinaryamerican.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@otherinbox.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@ourklips.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@outlawspam.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@ovpn.to', '1487764559', ''
+UNION ALL
+SELECT 'email','*@owlpic.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@pancakemail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@pimpedupmyspace.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@pjjkp.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@politikerclub.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@poofy.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@pookmail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@privacy.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@proxymail.eu', '1487764559', ''
+UNION ALL
+SELECT 'email','*@prtnx.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@punkass.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@PutThisInYourSpamDatabase.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@qq.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@quickinbox.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@rcpt.at', '1487764559', ''
+UNION ALL
+SELECT 'email','*@recode.me', '1487764559', ''
+UNION ALL
+SELECT 'email','*@recursor.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@regbypass.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@regbypass.comsafe-mail.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@rejectmail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@rklips.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@rmqkr.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@rppkn.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@rtrtr.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@s0ny.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@safe-mail.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@safersignup.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@safetymail.info', '1487764559', ''
+UNION ALL
+SELECT 'email','*@safetypost.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@sandelf.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@saynotospams.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@selfdestructingmail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@SendSpamHere.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@sharklasers.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@shiftmail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@shitmail.me', '1487764559', ''
+UNION ALL
+SELECT 'email','*@shortmail.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@sibmail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@skeefmail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@slaskpost.se', '1487764559', ''
+UNION ALL
+SELECT 'email','*@slopsbox.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@smellfear.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@snakemail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@sneakemail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@sofimail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@sofort-mail.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@sogetthis.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@soodonims.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spam.la', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spam.su', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamavert.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spambob.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spambob.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spambob.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spambog.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spambog.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spambog.ru', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spambox.info', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spambox.irishspringrealty.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spambox.us', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamcannon.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamcannon.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamcero.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamcon.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamcorptastic.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamcowboy.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamcowboy.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamcowboy.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamday.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamex.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamfree24.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamfree24.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamfree24.eu', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamfree24.info', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamfree24.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamfree24.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamgourmet.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamgourmet.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamgourmet.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@SpamHereLots.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@SpamHerePlease.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamhole.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamify.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spaminator.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamkill.info', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spaml.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spaml.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spammotel.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamobox.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamoff.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamslicer.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamspot.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamthis.co.uk', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamthisplease.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@spamtrail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@speed.1s.fr', '1487764559', ''
+UNION ALL
+SELECT 'email','*@supergreatmail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@supermailer.jp', '1487764559', ''
+UNION ALL
+SELECT 'email','*@suremail.info', '1487764559', ''
+UNION ALL
+SELECT 'email','*@teewars.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@teleworm.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@tempalias.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@tempe-mail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@tempemail.biz', '1487764559', ''
+UNION ALL
+SELECT 'email','*@tempemail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@TempEMail.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@tempinbox.co.uk', '1487764559', ''
+UNION ALL
+SELECT 'email','*@tempinbox.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@tempmail.it', '1487764559', ''
+UNION ALL
+SELECT 'email','*@tempmail2.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@tempomail.fr', '1487764559', ''
+UNION ALL
+SELECT 'email','*@temporarily.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@temporarioemail.com.br', '1487764559', ''
+UNION ALL
+SELECT 'email','*@temporaryemail.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@temporaryforwarding.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@temporaryinbox.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@thanksnospam.info', '1487764559', ''
+UNION ALL
+SELECT 'email','*@thankyou2010.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@thisisnotmyrealemail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@throwawayemailaddress.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@tilien.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@tmailinator.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@tradermail.info', '1487764559', ''
+UNION ALL
+SELECT 'email','*@trash-amil.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@trash-mail.at', '1487764559', ''
+UNION ALL
+SELECT 'email','*@trash-mail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@trash-mail.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@trash2009.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@trashemail.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@trashmail.at', '1487764559', ''
+UNION ALL
+SELECT 'email','*@trashmail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@trashmail.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@trashmail.me', '1487764559', ''
+UNION ALL
+SELECT 'email','*@trashmail.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@trashmail.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@trashmail.ws', '1487764559', ''
+UNION ALL
+SELECT 'email','*@trashmailer.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@trashymail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@trashymail.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@trillianpro.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@turual.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@twinmail.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@tyldd.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@uggsrock.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@upliftnow.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@uplipht.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@venompen.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@veryrealemail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@viditag.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@viewcastmedia.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@viewcastmedia.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@viewcastmedia.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@webm4il.info', '1487764559', ''
+UNION ALL
+SELECT 'email','*@wegwerfadresse.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@wegwerfemail.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@wegwerfmail.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@wegwerfmail.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@wegwerfmail.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@wetrainbayarea.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@wetrainbayarea.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@wh4f.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@whyspam.me', '1487764559', ''
+UNION ALL
+SELECT 'email','*@willselfdestruct.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@winemaven.info', '1487764559', ''
+UNION ALL
+SELECT 'email','*@wronghead.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@wuzup.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@wuzupmail.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@www.e4ward.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@www.gishpuppy.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@www.mailinator.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@wwwnew.eu', '1487764559', ''
+UNION ALL
+SELECT 'email','*@xagloo.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@xemaps.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@xents.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@xmaily.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@xoxy.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@yep.it', '1487764559', ''
+UNION ALL
+SELECT 'email','*@yogamaven.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@yopmail.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@yopmail.fr', '1487764559', ''
+UNION ALL
+SELECT 'email','*@yopmail.net', '1487764559', ''
+UNION ALL
+SELECT 'email','*@ypmail.webarnak.fr.eu.org', '1487764559', ''
+UNION ALL
+SELECT 'email','*@yuurok.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@zehnminutenmail.de', '1487764559', ''
+UNION ALL
+SELECT 'email','*@zippymail.info', '1487764559', ''
+UNION ALL
+SELECT 'email','*@zoaxe.com', '1487764559', ''
+UNION ALL
+SELECT 'email','*@zoemail.org', '1487764559', ''
+
