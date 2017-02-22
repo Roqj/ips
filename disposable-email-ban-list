@@ -1,965 +1,964 @@
-INSERT INTO forum_core_banfilters ( ban_type, ban_content, ban_date, ban_reason )
-SELECT 'email','*@0-mail.com', '0', ''
+INSERT INTO forum_core_banfilters ( ban_type, ban_content, ban_date )
+SELECT 'email','*@0-mail.com', '0'
 UNION ALL
-SELECT 'email','*@0815.ru', '0', ''
+SELECT 'email','*@0815.ru', '0'
 UNION ALL
-SELECT 'email','*@0clickemail.com', '0', ''
+SELECT 'email','*@0clickemail.com', '0'
 UNION ALL
-SELECT 'email','*@0wnd.net', '0', ''
+SELECT 'email','*@0wnd.net', '0'
 UNION ALL
-SELECT 'email','*@0wnd.org', '0', ''
+SELECT 'email','*@0wnd.org', '0'
 UNION ALL
-SELECT 'email','*@10minutemail.com', '0', ''
+SELECT 'email','*@10minutemail.com', '0'
 UNION ALL
-SELECT 'email','*@20minutemail.com', '0', ''
+SELECT 'email','*@20minutemail.com', '0'
 UNION ALL
-SELECT 'email','*@2prong.com', '0', ''
+SELECT 'email','*@2prong.com', '0'
 UNION ALL
-SELECT 'email','*@30minutemail.com', '0', ''
+SELECT 'email','*@30minutemail.com', '0'
 UNION ALL
-SELECT 'email','*@3d-painting.com', '0', ''
+SELECT 'email','*@3d-painting.com', '0'
 UNION ALL
-SELECT 'email','*@4warding.com', '0', ''
+SELECT 'email','*@4warding.com', '0'
 UNION ALL
-SELECT 'email','*@4warding.net', '0', ''
+SELECT 'email','*@4warding.net', '0'
 UNION ALL
-SELECT 'email','*@4warding.org', '0', ''
+SELECT 'email','*@4warding.org', '0'
 UNION ALL
-SELECT 'email','*@60minutemail.com', '0', ''
+SELECT 'email','*@60minutemail.com', '0'
 UNION ALL
-SELECT 'email','*@675hosting.com', '0', ''
+SELECT 'email','*@675hosting.com', '0'
 UNION ALL
-SELECT 'email','*@675hosting.net', '0', ''
+SELECT 'email','*@675hosting.net', '0'
 UNION ALL
-SELECT 'email','*@675hosting.org', '0', ''
+SELECT 'email','*@675hosting.org', '0'
 UNION ALL
-SELECT 'email','*@6url.com', '0', ''
+SELECT 'email','*@6url.com', '0'
 UNION ALL
-SELECT 'email','*@75hosting.com', '0', ''
+SELECT 'email','*@75hosting.com', '0'
 UNION ALL
-SELECT 'email','*@75hosting.net', '0', ''
+SELECT 'email','*@75hosting.net', '0'
 UNION ALL
-SELECT 'email','*@75hosting.org', '0', ''
+SELECT 'email','*@75hosting.org', '0'
 UNION ALL
-SELECT 'email','*@7tags.com', '0', ''
+SELECT 'email','*@7tags.com', '0'
 UNION ALL
-SELECT 'email','*@9ox.net', '0', ''
+SELECT 'email','*@9ox.net', '0'
 UNION ALL
-SELECT 'email','*@a-bc.net', '0', ''
+SELECT 'email','*@a-bc.net', '0'
 UNION ALL
-SELECT 'email','*@afrobacon.com', '0', ''
+SELECT 'email','*@afrobacon.com', '0'
 UNION ALL
-SELECT 'email','*@ajaxapp.net', '0', ''
+SELECT 'email','*@ajaxapp.net', '0'
 UNION ALL
-SELECT 'email','*@amilegit.com', '0', ''
+SELECT 'email','*@amilegit.com', '0'
 UNION ALL
-SELECT 'email','*@amiri.net', '0', ''
+SELECT 'email','*@amiri.net', '0'
 UNION ALL
-SELECT 'email','*@amiriindustries.com', '0', ''
+SELECT 'email','*@amiriindustries.com', '0'
 UNION ALL
-SELECT 'email','*@anonbox.net', '0', ''
+SELECT 'email','*@anonbox.net', '0'
 UNION ALL
-SELECT 'email','*@anonymbox.com', '0', ''
+SELECT 'email','*@anonymbox.com', '0'
 UNION ALL
-SELECT 'email','*@antichef.com', '0', ''
+SELECT 'email','*@antichef.com', '0'
 UNION ALL
-SELECT 'email','*@antichef.net', '0', ''
+SELECT 'email','*@antichef.net', '0'
 UNION ALL
-SELECT 'email','*@antispam.de', '0', ''
+SELECT 'email','*@antispam.de', '0'
 UNION ALL
-SELECT 'email','*@baxomale.ht.cx', '0', ''
+SELECT 'email','*@baxomale.ht.cx', '0'
 UNION ALL
-SELECT 'email','*@beefmilk.com', '0', ''
+SELECT 'email','*@beefmilk.com', '0'
 UNION ALL
-SELECT 'email','*@binkmail.com', '0', ''
+SELECT 'email','*@binkmail.com', '0'
 UNION ALL
-SELECT 'email','*@bio-muesli.net', '0', ''
+SELECT 'email','*@bio-muesli.net', '0'
 UNION ALL
-SELECT 'email','*@bobmail.info', '0', ''
+SELECT 'email','*@bobmail.info', '0'
 UNION ALL
-SELECT 'email','*@bodhi.lawlita.com', '0', ''
+SELECT 'email','*@bodhi.lawlita.com', '0'
 UNION ALL
-SELECT 'email','*@bofthew.com', '0', ''
+SELECT 'email','*@bofthew.com', '0'
 UNION ALL
-SELECT 'email','*@brefmail.com', '0', ''
+SELECT 'email','*@brefmail.com', '0'
 UNION ALL
-SELECT 'email','*@broadbandninja.com', '0', ''
+SELECT 'email','*@broadbandninja.com', '0'
 UNION ALL
-SELECT 'email','*@bsnow.net', '0', ''
+SELECT 'email','*@bsnow.net', '0'
 UNION ALL
-SELECT 'email','*@bugmenot.com', '0', ''
+SELECT 'email','*@bugmenot.com', '0'
 UNION ALL
-SELECT 'email','*@bumpymail.com', '0', ''
+SELECT 'email','*@bumpymail.com', '0'
 UNION ALL
-SELECT 'email','*@casualdx.com', '0', ''
+SELECT 'email','*@casualdx.com', '0'
 UNION ALL
-SELECT 'email','*@centermail.com', '0', ''
+SELECT 'email','*@centermail.com', '0'
 UNION ALL
-SELECT 'email','*@centermail.net', '0', ''
+SELECT 'email','*@centermail.net', '0'
 UNION ALL
-SELECT 'email','*@chogmail.com', '0', ''
+SELECT 'email','*@chogmail.com', '0'
 UNION ALL
-SELECT 'email','*@choicemail1.com', '0', ''
+SELECT 'email','*@choicemail1.com', '0'
 UNION ALL
-SELECT 'email','*@cool.fr.nf', '0', ''
+SELECT 'email','*@cool.fr.nf', '0'
 UNION ALL
-SELECT 'email','*@correo.blogos.net', '0', ''
+SELECT 'email','*@correo.blogos.net', '0'
 UNION ALL
-SELECT 'email','*@cosmorph.com', '0', ''
+SELECT 'email','*@cosmorph.com', '0'
 UNION ALL
-SELECT 'email','*@courriel.fr.nf', '0', ''
+SELECT 'email','*@courriel.fr.nf', '0'
 UNION ALL
-SELECT 'email','*@courrieltemporaire.com', '0', ''
+SELECT 'email','*@courrieltemporaire.com', '0'
 UNION ALL
-SELECT 'email','*@cubiclink.com', '0', ''
+SELECT 'email','*@cubiclink.com', '0'
 UNION ALL
-SELECT 'email','*@curryworld.de', '0', ''
+SELECT 'email','*@curryworld.de', '0'
 UNION ALL
-SELECT 'email','*@cust.in', '0', ''
+SELECT 'email','*@cust.in', '0'
 UNION ALL
-SELECT 'email','*@dacoolest.com', '0', ''
+SELECT 'email','*@dacoolest.com', '0'
 UNION ALL
-SELECT 'email','*@dandikmail.com', '0', ''
+SELECT 'email','*@dandikmail.com', '0'
 UNION ALL
-SELECT 'email','*@dayrep.com', '0', ''
+SELECT 'email','*@dayrep.com', '0'
 UNION ALL
-SELECT 'email','*@deadaddress.com', '0', ''
+SELECT 'email','*@deadaddress.com', '0'
 UNION ALL
-SELECT 'email','*@deadspam.com', '0', ''
+SELECT 'email','*@deadspam.com', '0'
 UNION ALL
-SELECT 'email','*@despam.it', '0', ''
+SELECT 'email','*@despam.it', '0'
 UNION ALL
-SELECT 'email','*@despammed.com', '0', ''
+SELECT 'email','*@despammed.com', '0'
 UNION ALL
-SELECT 'email','*@devnullmail.com', '0', ''
+SELECT 'email','*@devnullmail.com', '0'
 UNION ALL
-SELECT 'email','*@dfgh.net', '0', ''
+SELECT 'email','*@dfgh.net', '0'
 UNION ALL
-SELECT 'email','*@digitalsanctuary.com', '0', ''
+SELECT 'email','*@digitalsanctuary.com', '0'
 UNION ALL
-SELECT 'email','*@discardmail.com', '0', ''
+SELECT 'email','*@discardmail.com', '0'
 UNION ALL
-SELECT 'email','*@discardmail.de', '0', ''
+SELECT 'email','*@discardmail.de', '0'
 UNION ALL
-SELECT 'email','*@Disposableemailaddresses:emailmiser.com', '0', ''
+SELECT 'email','*@Disposableemailaddresses:emailmiser.com', '0'
 UNION ALL
-SELECT 'email','*@disposableaddress.com', '0', ''
+SELECT 'email','*@disposableaddress.com', '0'
 UNION ALL
-SELECT 'email','*@disposeamail.com', '0', ''
+SELECT 'email','*@disposeamail.com', '0'
 UNION ALL
-SELECT 'email','*@disposemail.com', '0', ''
+SELECT 'email','*@disposemail.com', '0'
 UNION ALL
-SELECT 'email','*@dispostable.com', '0', ''
+SELECT 'email','*@dispostable.com', '0'
 UNION ALL
-SELECT 'email','*@dm.w3internet.co.ukexample.com', '0', ''
+SELECT 'email','*@dm.w3internet.co.ukexample.com', '0'
 UNION ALL
-SELECT 'email','*@dodgeit.com', '0', ''
+SELECT 'email','*@dodgeit.com', '0'
 UNION ALL
-SELECT 'email','*@dodgit.com', '0', ''
+SELECT 'email','*@dodgit.com', '0'
 UNION ALL
-SELECT 'email','*@dodgit.org', '0', ''
+SELECT 'email','*@dodgit.org', '0'
 UNION ALL
-SELECT 'email','*@donemail.ru', '0', ''
+SELECT 'email','*@donemail.ru', '0'
 UNION ALL
-SELECT 'email','*@dontreg.com', '0', ''
+SELECT 'email','*@dontreg.com', '0'
 UNION ALL
-SELECT 'email','*@dontsendmespam.de', '0', ''
+SELECT 'email','*@dontsendmespam.de', '0'
 UNION ALL
-SELECT 'email','*@dump-email.info', '0', ''
+SELECT 'email','*@dump-email.info', '0'
 UNION ALL
-SELECT 'email','*@dumpandjunk.com', '0', ''
+SELECT 'email','*@dumpandjunk.com', '0'
 UNION ALL
-SELECT 'email','*@dumpmail.de', '0', ''
+SELECT 'email','*@dumpmail.de', '0'
 UNION ALL
-SELECT 'email','*@dumpyemail.com', '0', ''
+SELECT 'email','*@dumpyemail.com', '0'
 UNION ALL
-SELECT 'email','*@e4ward.com', '0', ''
+SELECT 'email','*@e4ward.com', '0'
 UNION ALL
-SELECT 'email','*@email60.com', '0', ''
+SELECT 'email','*@email60.com', '0'
 UNION ALL
-SELECT 'email','*@emaildienst.de', '0', ''
+SELECT 'email','*@emaildienst.de', '0'
 UNION ALL
-SELECT 'email','*@emailias.com', '0', ''
+SELECT 'email','*@emailias.com', '0'
 UNION ALL
-SELECT 'email','*@emailigo.de', '0', ''
+SELECT 'email','*@emailigo.de', '0'
 UNION ALL
-SELECT 'email','*@emailinfive.com', '0', ''
+SELECT 'email','*@emailinfive.com', '0'
 UNION ALL
-SELECT 'email','*@emailmiser.com', '0', ''
+SELECT 'email','*@emailmiser.com', '0'
 UNION ALL
-SELECT 'email','*@emailsensei.com', '0', ''
+SELECT 'email','*@emailsensei.com', '0'
 UNION ALL
-SELECT 'email','*@emailtemporario.com.br', '0', ''
+SELECT 'email','*@emailtemporario.com.br', '0'
 UNION ALL
-SELECT 'email','*@emailto.de', '0', ''
+SELECT 'email','*@emailto.de', '0'
 UNION ALL
-SELECT 'email','*@emailwarden.com', '0', ''
+SELECT 'email','*@emailwarden.com', '0'
 UNION ALL
-SELECT 'email','*@emailx.at.hm', '0', ''
+SELECT 'email','*@emailx.at.hm', '0'
 UNION ALL
-SELECT 'email','*@emailxfer.com', '0', ''
+SELECT 'email','*@emailxfer.com', '0'
 UNION ALL
-SELECT 'email','*@emz.net', '0', ''
+SELECT 'email','*@emz.net', '0'
 UNION ALL
-SELECT 'email','*@enterto.com', '0', ''
+SELECT 'email','*@enterto.com', '0'
 UNION ALL
-SELECT 'email','*@ephemail.net', '0', ''
+SELECT 'email','*@ephemail.net', '0'
 UNION ALL
-SELECT 'email','*@etranquil.com', '0', ''
+SELECT 'email','*@etranquil.com', '0'
 UNION ALL
-SELECT 'email','*@etranquil.net', '0', ''
+SELECT 'email','*@etranquil.net', '0'
 UNION ALL
-SELECT 'email','*@etranquil.org', '0', ''
+SELECT 'email','*@etranquil.org', '0'
 UNION ALL
-SELECT 'email','*@explodemail.com', '0', ''
+SELECT 'email','*@explodemail.com', '0'
 UNION ALL
-SELECT 'email','*@fakeinbox.com', '0', ''
+SELECT 'email','*@fakeinbox.com', '0'
 UNION ALL
-SELECT 'email','*@fakeinformation.com', '0', ''
+SELECT 'email','*@fakeinformation.com', '0'
 UNION ALL
-SELECT 'email','*@fastacura.com', '0', ''
+SELECT 'email','*@fastacura.com', '0'
 UNION ALL
-SELECT 'email','*@fastchevy.com', '0', ''
+SELECT 'email','*@fastchevy.com', '0'
 UNION ALL
-SELECT 'email','*@fastchrysler.com', '0', ''
+SELECT 'email','*@fastchrysler.com', '0'
 UNION ALL
-SELECT 'email','*@fastkawasaki.com', '0', ''
+SELECT 'email','*@fastkawasaki.com', '0'
 UNION ALL
-SELECT 'email','*@fastmazda.com', '0', ''
+SELECT 'email','*@fastmazda.com', '0'
 UNION ALL
-SELECT 'email','*@fastmitsubishi.com', '0', ''
+SELECT 'email','*@fastmitsubishi.com', '0'
 UNION ALL
-SELECT 'email','*@fastnissan.com', '0', ''
+SELECT 'email','*@fastnissan.com', '0'
 UNION ALL
-SELECT 'email','*@fastsubaru.com', '0', ''
+SELECT 'email','*@fastsubaru.com', '0'
 UNION ALL
-SELECT 'email','*@fastsuzuki.com', '0', ''
+SELECT 'email','*@fastsuzuki.com', '0'
 UNION ALL
-SELECT 'email','*@fasttoyota.com', '0', ''
+SELECT 'email','*@fasttoyota.com', '0'
 UNION ALL
-SELECT 'email','*@fastyamaha.com', '0', ''
+SELECT 'email','*@fastyamaha.com', '0'
 UNION ALL
-SELECT 'email','*@filzmail.com', '0', ''
+SELECT 'email','*@filzmail.com', '0'
 UNION ALL
-SELECT 'email','*@fizmail.com', '0', ''
+SELECT 'email','*@fizmail.com', '0'
 UNION ALL
-SELECT 'email','*@fr33mail.info', '0', ''
+SELECT 'email','*@fr33mail.info', '0'
 UNION ALL
-SELECT 'email','*@frapmail.com', '0', ''
+SELECT 'email','*@frapmail.com', '0'
 UNION ALL
-SELECT 'email','*@front14.org', '0', ''
+SELECT 'email','*@front14.org', '0'
 UNION ALL
-SELECT 'email','*@fux0ringduh.com', '0', ''
+SELECT 'email','*@fux0ringduh.com', '0'
 UNION ALL
-SELECT 'email','*@garliclife.com', '0', ''
+SELECT 'email','*@garliclife.com', '0'
 UNION ALL
-SELECT 'email','*@get1mail.com', '0', ''
+SELECT 'email','*@get1mail.com', '0'
 UNION ALL
-SELECT 'email','*@get2mail.fr', '0', ''
+SELECT 'email','*@get2mail.fr', '0'
 UNION ALL
-SELECT 'email','*@getonemail.com', '0', ''
+SELECT 'email','*@getonemail.com', '0'
 UNION ALL
-SELECT 'email','*@getonemail.net', '0', ''
+SELECT 'email','*@getonemail.net', '0'
 UNION ALL
-SELECT 'email','*@ghosttexter.de', '0', ''
+SELECT 'email','*@ghosttexter.de', '0'
 UNION ALL
-SELECT 'email','*@girlsundertheinfluence.com', '0', ''
+SELECT 'email','*@girlsundertheinfluence.com', '0'
 UNION ALL
-SELECT 'email','*@gishpuppy.com', '0', ''
+SELECT 'email','*@gishpuppy.com', '0'
 UNION ALL
-SELECT 'email','*@gowikibooks.com', '0', ''
+SELECT 'email','*@gowikibooks.com', '0'
 UNION ALL
-SELECT 'email','*@gowikicampus.com', '0', ''
+SELECT 'email','*@gowikicampus.com', '0'
 UNION ALL
-SELECT 'email','*@gowikicars.com', '0', ''
+SELECT 'email','*@gowikicars.com', '0'
 UNION ALL
-SELECT 'email','*@gowikifilms.com', '0', ''
+SELECT 'email','*@gowikifilms.com', '0'
 UNION ALL
-SELECT 'email','*@gowikigames.com', '0', ''
+SELECT 'email','*@gowikigames.com', '0'
 UNION ALL
-SELECT 'email','*@gowikimusic.com', '0', ''
+SELECT 'email','*@gowikimusic.com', '0'
 UNION ALL
-SELECT 'email','*@gowikinetwork.com', '0', ''
+SELECT 'email','*@gowikinetwork.com', '0'
 UNION ALL
-SELECT 'email','*@gowikitravel.com', '0', ''
+SELECT 'email','*@gowikitravel.com', '0'
 UNION ALL
-SELECT 'email','*@gowikitv.com', '0', ''
+SELECT 'email','*@gowikitv.com', '0'
 UNION ALL
-SELECT 'email','*@great-host.in', '0', ''
+SELECT 'email','*@great-host.in', '0'
 UNION ALL
-SELECT 'email','*@greensloth.com', '0', ''
+SELECT 'email','*@greensloth.com', '0'
 UNION ALL
-SELECT 'email','*@gsrv.co.uk', '0', ''
+SELECT 'email','*@gsrv.co.uk', '0'
 UNION ALL
-SELECT 'email','*@guerillamail.biz', '0', ''
+SELECT 'email','*@guerillamail.biz', '0'
 UNION ALL
-SELECT 'email','*@guerillamail.com', '0', ''
+SELECT 'email','*@guerillamail.com', '0'
 UNION ALL
-SELECT 'email','*@guerillamail.net', '0', ''
+SELECT 'email','*@guerillamail.net', '0'
 UNION ALL
-SELECT 'email','*@guerillamail.org', '0', ''
+SELECT 'email','*@guerillamail.org', '0'
 UNION ALL
-SELECT 'email','*@guerrillamail.biz', '0', ''
+SELECT 'email','*@guerrillamail.biz', '0'
 UNION ALL
-SELECT 'email','*@guerrillamail.com', '0', ''
+SELECT 'email','*@guerrillamail.com', '0'
 UNION ALL
-SELECT 'email','*@guerrillamail.de', '0', ''
+SELECT 'email','*@guerrillamail.de', '0'
 UNION ALL
-SELECT 'email','*@guerrillamail.net', '0', ''
+SELECT 'email','*@guerrillamail.net', '0'
 UNION ALL
-SELECT 'email','*@guerrillamail.org', '0', ''
+SELECT 'email','*@guerrillamail.org', '0'
 UNION ALL
-SELECT 'email','*@guerrillamailblock.com', '0', ''
+SELECT 'email','*@guerrillamailblock.com', '0'
 UNION ALL
-SELECT 'email','*@h.mintemail.com', '0', ''
+SELECT 'email','*@h.mintemail.com', '0'
 UNION ALL
-SELECT 'email','*@h8s.org', '0', ''
+SELECT 'email','*@h8s.org', '0'
 UNION ALL
-SELECT 'email','*@haltospam.com', '0', ''
+SELECT 'email','*@haltospam.com', '0'
 UNION ALL
-SELECT 'email','*@hatespam.org', '0', ''
+SELECT 'email','*@hatespam.org', '0'
 UNION ALL
-SELECT 'email','*@hidemail.de', '0', ''
+SELECT 'email','*@hidemail.de', '0'
 UNION ALL
-SELECT 'email','*@hochsitze.com', '0', ''
+SELECT 'email','*@hochsitze.com', '0'
 UNION ALL
-SELECT 'email','*@hotpop.com', '0', ''
+SELECT 'email','*@hotpop.com', '0'
 UNION ALL
-SELECT 'email','*@hulapla.de', '0', ''
+SELECT 'email','*@hulapla.de', '0'
 UNION ALL
-SELECT 'email','*@ieatspam.eu', '0', ''
+SELECT 'email','*@ieatspam.eu', '0'
 UNION ALL
-SELECT 'email','*@ieatspam.info', '0', ''
+SELECT 'email','*@ieatspam.info', '0'
 UNION ALL
-SELECT 'email','*@ihateyoualot.info', '0', ''
+SELECT 'email','*@ihateyoualot.info', '0'
 UNION ALL
-SELECT 'email','*@iheartspam.org', '0', ''
+SELECT 'email','*@iheartspam.org', '0'
 UNION ALL
-SELECT 'email','*@imails.info', '0', ''
+SELECT 'email','*@imails.info', '0'
 UNION ALL
-SELECT 'email','*@inboxclean.com', '0', ''
+SELECT 'email','*@inboxclean.com', '0'
 UNION ALL
-SELECT 'email','*@inboxclean.org', '0', ''
+SELECT 'email','*@inboxclean.org', '0'
 UNION ALL
-SELECT 'email','*@incognitomail.com', '0', ''
+SELECT 'email','*@incognitomail.com', '0'
 UNION ALL
-SELECT 'email','*@incognitomail.net', '0', ''
+SELECT 'email','*@incognitomail.net', '0'
 UNION ALL
-SELECT 'email','*@incognitomail.org', '0', ''
+SELECT 'email','*@incognitomail.org', '0'
 UNION ALL
-SELECT 'email','*@insorg-mail.info', '0', ''
+SELECT 'email','*@insorg-mail.info', '0'
 UNION ALL
-SELECT 'email','*@ipoo.org', '0', ''
+SELECT 'email','*@ipoo.org', '0'
 UNION ALL
-SELECT 'email','*@irish2me.com', '0', ''
+SELECT 'email','*@irish2me.com', '0'
 UNION ALL
-SELECT 'email','*@iwi.net', '0', ''
+SELECT 'email','*@iwi.net', '0'
 UNION ALL
-SELECT 'email','*@jetable.com', '0', ''
+SELECT 'email','*@jetable.com', '0'
 UNION ALL
-SELECT 'email','*@jetable.fr.nf', '0', ''
+SELECT 'email','*@jetable.fr.nf', '0'
 UNION ALL
-SELECT 'email','*@jetable.net', '0', ''
+SELECT 'email','*@jetable.net', '0'
 UNION ALL
-SELECT 'email','*@jetable.org', '0', ''
+SELECT 'email','*@jetable.org', '0'
 UNION ALL
-SELECT 'email','*@jnxjn.com', '0', ''
+SELECT 'email','*@jnxjn.com', '0'
 UNION ALL
-SELECT 'email','*@junk1e.com', '0', ''
+SELECT 'email','*@junk1e.com', '0'
 UNION ALL
-SELECT 'email','*@kasmail.com', '0', ''
+SELECT 'email','*@kasmail.com', '0'
 UNION ALL
-SELECT 'email','*@kaspop.com', '0', ''
+SELECT 'email','*@kaspop.com', '0'
 UNION ALL
-SELECT 'email','*@keepmymail.com', '0', ''
+SELECT 'email','*@keepmymail.com', '0'
 UNION ALL
-SELECT 'email','*@killmail.com', '0', ''
+SELECT 'email','*@killmail.com', '0'
 UNION ALL
-SELECT 'email','*@killmail.net', '0', ''
+SELECT 'email','*@killmail.net', '0'
 UNION ALL
-SELECT 'email','*@kir.ch.tc', '0', ''
+SELECT 'email','*@kir.ch.tc', '0'
 UNION ALL
-SELECT 'email','*@klassmaster.com', '0', ''
+SELECT 'email','*@klassmaster.com', '0'
 UNION ALL
-SELECT 'email','*@klassmaster.net', '0', ''
+SELECT 'email','*@klassmaster.net', '0'
 UNION ALL
-SELECT 'email','*@klzlk.com', '0', ''
+SELECT 'email','*@klzlk.com', '0'
 UNION ALL
-SELECT 'email','*@kulturbetrieb.info', '0', ''
+SELECT 'email','*@kulturbetrieb.info', '0'
 UNION ALL
-SELECT 'email','*@kurzepost.de', '0', ''
+SELECT 'email','*@kurzepost.de', '0'
 UNION ALL
-SELECT 'email','*@letthemeatspam.com', '0', ''
+SELECT 'email','*@letthemeatspam.com', '0'
 UNION ALL
-SELECT 'email','*@lhsdv.com', '0', ''
+SELECT 'email','*@lhsdv.com', '0'
 UNION ALL
-SELECT 'email','*@lifebyfood.com', '0', ''
+SELECT 'email','*@lifebyfood.com', '0'
 UNION ALL
-SELECT 'email','*@link2mail.net', '0', ''
+SELECT 'email','*@link2mail.net', '0'
 UNION ALL
-SELECT 'email','*@litedrop.com', '0', ''
+SELECT 'email','*@litedrop.com', '0'
 UNION ALL
-SELECT 'email','*@lol.ovpn.to', '0', ''
+SELECT 'email','*@lol.ovpn.to', '0'
 UNION ALL
-SELECT 'email','*@lookugly.com', '0', ''
+SELECT 'email','*@lookugly.com', '0'
 UNION ALL
-SELECT 'email','*@lopl.co.cc', '0', ''
+SELECT 'email','*@lopl.co.cc', '0'
 UNION ALL
-SELECT 'email','*@lortemail.dk', '0', ''
+SELECT 'email','*@lortemail.dk', '0'
 UNION ALL
-SELECT 'email','*@lr78.com', '0', ''
+SELECT 'email','*@lr78.com', '0'
 UNION ALL
-SELECT 'email','*@m4ilweb.info', '0', ''
+SELECT 'email','*@m4ilweb.info', '0'
 UNION ALL
-SELECT 'email','*@maboard.com', '0', ''
+SELECT 'email','*@maboard.com', '0'
 UNION ALL
-SELECT 'email','*@mail-temporaire.fr', '0', ''
+SELECT 'email','*@mail-temporaire.fr', '0'
 UNION ALL
-SELECT 'email','*@mail.by', '0', ''
+SELECT 'email','*@mail.by', '0'
 UNION ALL
-SELECT 'email','*@mail.mezimages.net', '0', ''
+SELECT 'email','*@mail.mezimages.net', '0'
 UNION ALL
-SELECT 'email','*@mail2rss.org', '0', ''
+SELECT 'email','*@mail2rss.org', '0'
 UNION ALL
-SELECT 'email','*@mail333.com', '0', ''
+SELECT 'email','*@mail333.com', '0'
 UNION ALL
-SELECT 'email','*@mail4trash.com', '0', ''
+SELECT 'email','*@mail4trash.com', '0'
 UNION ALL
-SELECT 'email','*@mailbidon.com', '0', ''
+SELECT 'email','*@mailbidon.com', '0'
 UNION ALL
-SELECT 'email','*@mailblocks.com', '0', ''
+SELECT 'email','*@mailblocks.com', '0'
 UNION ALL
-SELECT 'email','*@mailcatch.com', '0', ''
+SELECT 'email','*@mailcatch.com', '0'
 UNION ALL
-SELECT 'email','*@maileater.com', '0', ''
+SELECT 'email','*@maileater.com', '0'
 UNION ALL
-SELECT 'email','*@mailexpire.com', '0', ''
+SELECT 'email','*@mailexpire.com', '0'
 UNION ALL
-SELECT 'email','*@mailfreeonline.com', '0', ''
+SELECT 'email','*@mailfreeonline.com', '0'
 UNION ALL
-SELECT 'email','*@mailin8r.com', '0', ''
+SELECT 'email','*@mailin8r.com', '0'
 UNION ALL
-SELECT 'email','*@mailinater.com', '0', ''
+SELECT 'email','*@mailinater.com', '0'
 UNION ALL
-SELECT 'email','*@mailinator.com', '0', ''
+SELECT 'email','*@mailinator.com', '0'
 UNION ALL
-SELECT 'email','*@mailinator.net', '0', ''
+SELECT 'email','*@mailinator.net', '0'
 UNION ALL
-SELECT 'email','*@mailinator2.com', '0', ''
+SELECT 'email','*@mailinator2.com', '0'
 UNION ALL
-SELECT 'email','*@mailincubator.com', '0', ''
+SELECT 'email','*@mailincubator.com', '0'
 UNION ALL
-SELECT 'email','*@mailme.ir', '0', ''
+SELECT 'email','*@mailme.ir', '0'
 UNION ALL
-SELECT 'email','*@mailme.lv', '0', ''
+SELECT 'email','*@mailme.lv', '0'
 UNION ALL
-SELECT 'email','*@mailmetrash.com', '0', ''
+SELECT 'email','*@mailmetrash.com', '0'
 UNION ALL
-SELECT 'email','*@mailmoat.com', '0', ''
+SELECT 'email','*@mailmoat.com', '0'
 UNION ALL
-SELECT 'email','*@mailnator.com', '0', ''
+SELECT 'email','*@mailnator.com', '0'
 UNION ALL
-SELECT 'email','*@mailnesia.com', '0', ''
+SELECT 'email','*@mailnesia.com', '0'
 UNION ALL
-SELECT 'email','*@mailnull.com', '0', ''
+SELECT 'email','*@mailnull.com', '0'
 UNION ALL
-SELECT 'email','*@mailshell.com', '0', ''
+SELECT 'email','*@mailshell.com', '0'
 UNION ALL
-SELECT 'email','*@mailsiphon.com', '0', ''
+SELECT 'email','*@mailsiphon.com', '0'
 UNION ALL
-SELECT 'email','*@mailslite.com', '0', ''
+SELECT 'email','*@mailslite.com', '0'
 UNION ALL
-SELECT 'email','*@mailzilla.com', '0', ''
+SELECT 'email','*@mailzilla.com', '0'
 UNION ALL
-SELECT 'email','*@mailzilla.org', '0', ''
+SELECT 'email','*@mailzilla.org', '0'
 UNION ALL
-SELECT 'email','*@mbx.cc', '0', ''
+SELECT 'email','*@mbx.cc', '0'
 UNION ALL
-SELECT 'email','*@mega.zik.dj', '0', ''
+SELECT 'email','*@mega.zik.dj', '0'
 UNION ALL
-SELECT 'email','*@meinspamschutz.de', '0', ''
+SELECT 'email','*@meinspamschutz.de', '0'
 UNION ALL
-SELECT 'email','*@meltmail.com', '0', ''
+SELECT 'email','*@meltmail.com', '0'
 UNION ALL
-SELECT 'email','*@messagebeamer.de', '0', ''
+SELECT 'email','*@messagebeamer.de', '0'
 UNION ALL
-SELECT 'email','*@mierdamail.com', '0', ''
+SELECT 'email','*@mierdamail.com', '0'
 UNION ALL
-SELECT 'email','*@mintemail.com', '0', ''
+SELECT 'email','*@mintemail.com', '0'
 UNION ALL
-SELECT 'email','*@moburl.com', '0', ''
+SELECT 'email','*@moburl.com', '0'
 UNION ALL
-SELECT 'email','*@moncourrier.fr.nf', '0', ''
+SELECT 'email','*@moncourrier.fr.nf', '0'
 UNION ALL
-SELECT 'email','*@monemail.fr.nf', '0', ''
+SELECT 'email','*@monemail.fr.nf', '0'
 UNION ALL
-SELECT 'email','*@monmail.fr.nf', '0', ''
+SELECT 'email','*@monmail.fr.nf', '0'
 UNION ALL
-SELECT 'email','*@msa.minsmail.com', '0', ''
+SELECT 'email','*@msa.minsmail.com', '0'
 UNION ALL
-SELECT 'email','*@mt2009.com', '0', ''
+SELECT 'email','*@mt2009.com', '0'
 UNION ALL
-SELECT 'email','*@mx0.wwwnew.eu', '0', ''
+SELECT 'email','*@mx0.wwwnew.eu', '0'
 UNION ALL
-SELECT 'email','*@mycleaninbox.net', '0', ''
+SELECT 'email','*@mycleaninbox.net', '0'
 UNION ALL
-SELECT 'email','*@mypartyclip.de', '0', ''
+SELECT 'email','*@mypartyclip.de', '0'
 UNION ALL
-SELECT 'email','*@myphantomemail.com', '0', ''
+SELECT 'email','*@myphantomemail.com', '0'
 UNION ALL
-SELECT 'email','*@myspaceinc.com', '0', ''
+SELECT 'email','*@myspaceinc.com', '0'
 UNION ALL
-SELECT 'email','*@myspaceinc.net', '0', ''
+SELECT 'email','*@myspaceinc.net', '0'
 UNION ALL
-SELECT 'email','*@myspaceinc.org', '0', ''
+SELECT 'email','*@myspaceinc.org', '0'
 UNION ALL
-SELECT 'email','*@myspacepimpedup.com', '0', ''
+SELECT 'email','*@myspacepimpedup.com', '0'
 UNION ALL
-SELECT 'email','*@myspamless.com', '0', ''
+SELECT 'email','*@myspamless.com', '0'
 UNION ALL
-SELECT 'email','*@mytrashmail.com', '0', ''
+SELECT 'email','*@mytrashmail.com', '0'
 UNION ALL
-SELECT 'email','*@neomailbox.com', '0', ''
+SELECT 'email','*@neomailbox.com', '0'
 UNION ALL
-SELECT 'email','*@nepwk.com', '0', ''
+SELECT 'email','*@nepwk.com', '0'
 UNION ALL
-SELECT 'email','*@nervmich.net', '0', ''
+SELECT 'email','*@nervmich.net', '0'
 UNION ALL
-SELECT 'email','*@nervtmich.net', '0', ''
+SELECT 'email','*@nervtmich.net', '0'
 UNION ALL
-SELECT 'email','*@netmails.com', '0', ''
+SELECT 'email','*@netmails.com', '0'
 UNION ALL
-SELECT 'email','*@netmails.net', '0', ''
+SELECT 'email','*@netmails.net', '0'
 UNION ALL
-SELECT 'email','*@netzidiot.de', '0', ''
+SELECT 'email','*@netzidiot.de', '0'
 UNION ALL
-SELECT 'email','*@neverbox.com', '0', ''
+SELECT 'email','*@neverbox.com', '0'
 UNION ALL
-SELECT 'email','*@no-spam.ws', '0', ''
+SELECT 'email','*@no-spam.ws', '0'
 UNION ALL
-SELECT 'email','*@nobulk.com', '0', ''
+SELECT 'email','*@nobulk.com', '0'
 UNION ALL
-SELECT 'email','*@noclickemail.com', '0', ''
+SELECT 'email','*@noclickemail.com', '0'
 UNION ALL
-SELECT 'email','*@nogmailspam.info', '0', ''
+SELECT 'email','*@nogmailspam.info', '0'
 UNION ALL
-SELECT 'email','*@nomail.xl.cx', '0', ''
+SELECT 'email','*@nomail.xl.cx', '0'
 UNION ALL
-SELECT 'email','*@nomail2me.com', '0', ''
+SELECT 'email','*@nomail2me.com', '0'
 UNION ALL
-SELECT 'email','*@nomorespamemails.com', '0', ''
+SELECT 'email','*@nomorespamemails.com', '0'
 UNION ALL
-SELECT 'email','*@nospam.ze.tc', '0', ''
+SELECT 'email','*@nospam.ze.tc', '0'
 UNION ALL
-SELECT 'email','*@nospam4.us', '0', ''
+SELECT 'email','*@nospam4.us', '0'
 UNION ALL
-SELECT 'email','*@nospamfor.us', '0', ''
+SELECT 'email','*@nospamfor.us', '0'
 UNION ALL
-SELECT 'email','*@nospamthanks.info', '0', ''
+SELECT 'email','*@nospamthanks.info', '0'
 UNION ALL
-SELECT 'email','*@notmailinator.com', '0', ''
+SELECT 'email','*@notmailinator.com', '0'
 UNION ALL
-SELECT 'email','*@nowmymail.com', '0', ''
+SELECT 'email','*@nowmymail.com', '0'
 UNION ALL
-SELECT 'email','*@nurfuerspam.de', '0', ''
+SELECT 'email','*@nurfuerspam.de', '0'
 UNION ALL
-SELECT 'email','*@nus.edu.sg', '0', ''
+SELECT 'email','*@nus.edu.sg', '0'
 UNION ALL
-SELECT 'email','*@nwldx.com', '0', ''
+SELECT 'email','*@nwldx.com', '0'
 UNION ALL
-SELECT 'email','*@objectmail.com', '0', ''
+SELECT 'email','*@objectmail.com', '0'
 UNION ALL
-SELECT 'email','*@obobbo.com', '0', ''
+SELECT 'email','*@obobbo.com', '0'
 UNION ALL
-SELECT 'email','*@oneoffemail.com', '0', ''
+SELECT 'email','*@oneoffemail.com', '0'
 UNION ALL
-SELECT 'email','*@onewaymail.com', '0', ''
+SELECT 'email','*@onewaymail.com', '0'
 UNION ALL
-SELECT 'email','*@online.ms', '0', ''
+SELECT 'email','*@online.ms', '0'
 UNION ALL
-SELECT 'email','*@oopi.org', '0', ''
+SELECT 'email','*@oopi.org', '0'
 UNION ALL
-SELECT 'email','*@ordinaryamerican.net', '0', ''
+SELECT 'email','*@ordinaryamerican.net', '0'
 UNION ALL
-SELECT 'email','*@otherinbox.com', '0', ''
+SELECT 'email','*@otherinbox.com', '0'
 UNION ALL
-SELECT 'email','*@ourklips.com', '0', ''
+SELECT 'email','*@ourklips.com', '0'
 UNION ALL
-SELECT 'email','*@outlawspam.com', '0', ''
+SELECT 'email','*@outlawspam.com', '0'
 UNION ALL
-SELECT 'email','*@ovpn.to', '0', ''
+SELECT 'email','*@ovpn.to', '0'
 UNION ALL
-SELECT 'email','*@owlpic.com', '0', ''
+SELECT 'email','*@owlpic.com', '0'
 UNION ALL
-SELECT 'email','*@pancakemail.com', '0', ''
+SELECT 'email','*@pancakemail.com', '0'
 UNION ALL
-SELECT 'email','*@pimpedupmyspace.com', '0', ''
+SELECT 'email','*@pimpedupmyspace.com', '0'
 UNION ALL
-SELECT 'email','*@pjjkp.com', '0', ''
+SELECT 'email','*@pjjkp.com', '0'
 UNION ALL
-SELECT 'email','*@politikerclub.de', '0', ''
+SELECT 'email','*@politikerclub.de', '0'
 UNION ALL
-SELECT 'email','*@poofy.org', '0', ''
+SELECT 'email','*@poofy.org', '0'
 UNION ALL
-SELECT 'email','*@pookmail.com', '0', ''
+SELECT 'email','*@pookmail.com', '0'
 UNION ALL
-SELECT 'email','*@privacy.net', '0', ''
+SELECT 'email','*@privacy.net', '0'
 UNION ALL
-SELECT 'email','*@proxymail.eu', '0', ''
+SELECT 'email','*@proxymail.eu', '0'
 UNION ALL
-SELECT 'email','*@prtnx.com', '0', ''
+SELECT 'email','*@prtnx.com', '0'
 UNION ALL
-SELECT 'email','*@punkass.com', '0', ''
+SELECT 'email','*@punkass.com', '0'
 UNION ALL
-SELECT 'email','*@PutThisInYourSpamDatabase.com', '0', ''
+SELECT 'email','*@PutThisInYourSpamDatabase.com', '0'
 UNION ALL
-SELECT 'email','*@qq.com', '0', ''
+SELECT 'email','*@qq.com', '0'
 UNION ALL
-SELECT 'email','*@quickinbox.com', '0', ''
+SELECT 'email','*@quickinbox.com', '0'
 UNION ALL
-SELECT 'email','*@rcpt.at', '0', ''
+SELECT 'email','*@rcpt.at', '0'
 UNION ALL
-SELECT 'email','*@recode.me', '0', ''
+SELECT 'email','*@recode.me', '0'
 UNION ALL
-SELECT 'email','*@recursor.net', '0', ''
+SELECT 'email','*@recursor.net', '0'
 UNION ALL
-SELECT 'email','*@regbypass.com', '0', ''
+SELECT 'email','*@regbypass.com', '0'
 UNION ALL
-SELECT 'email','*@regbypass.comsafe-mail.net', '0', ''
+SELECT 'email','*@regbypass.comsafe-mail.net', '0'
 UNION ALL
-SELECT 'email','*@rejectmail.com', '0', ''
+SELECT 'email','*@rejectmail.com', '0'
 UNION ALL
-SELECT 'email','*@rklips.com', '0', ''
+SELECT 'email','*@rklips.com', '0'
 UNION ALL
-SELECT 'email','*@rmqkr.net', '0', ''
+SELECT 'email','*@rmqkr.net', '0'
 UNION ALL
-SELECT 'email','*@rppkn.com', '0', ''
+SELECT 'email','*@rppkn.com', '0'
 UNION ALL
-SELECT 'email','*@rtrtr.com', '0', ''
+SELECT 'email','*@rtrtr.com', '0'
 UNION ALL
-SELECT 'email','*@s0ny.net', '0', ''
+SELECT 'email','*@s0ny.net', '0'
 UNION ALL
-SELECT 'email','*@safe-mail.net', '0', ''
+SELECT 'email','*@safe-mail.net', '0'
 UNION ALL
-SELECT 'email','*@safersignup.de', '0', ''
+SELECT 'email','*@safersignup.de', '0'
 UNION ALL
-SELECT 'email','*@safetymail.info', '0', ''
+SELECT 'email','*@safetymail.info', '0'
 UNION ALL
-SELECT 'email','*@safetypost.de', '0', ''
+SELECT 'email','*@safetypost.de', '0'
 UNION ALL
-SELECT 'email','*@sandelf.de', '0', ''
+SELECT 'email','*@sandelf.de', '0'
 UNION ALL
-SELECT 'email','*@saynotospams.com', '0', ''
+SELECT 'email','*@saynotospams.com', '0'
 UNION ALL
-SELECT 'email','*@selfdestructingmail.com', '0', ''
+SELECT 'email','*@selfdestructingmail.com', '0'
 UNION ALL
-SELECT 'email','*@SendSpamHere.com', '0', ''
+SELECT 'email','*@SendSpamHere.com', '0'
 UNION ALL
-SELECT 'email','*@sharklasers.com', '0', ''
+SELECT 'email','*@sharklasers.com', '0'
 UNION ALL
-SELECT 'email','*@shiftmail.com', '0', ''
+SELECT 'email','*@shiftmail.com', '0'
 UNION ALL
-SELECT 'email','*@shitmail.me', '0', ''
+SELECT 'email','*@shitmail.me', '0'
 UNION ALL
-SELECT 'email','*@shortmail.net', '0', ''
+SELECT 'email','*@shortmail.net', '0'
 UNION ALL
-SELECT 'email','*@sibmail.com', '0', ''
+SELECT 'email','*@sibmail.com', '0'
 UNION ALL
-SELECT 'email','*@skeefmail.com', '0', ''
+SELECT 'email','*@skeefmail.com', '0'
 UNION ALL
-SELECT 'email','*@slaskpost.se', '0', ''
+SELECT 'email','*@slaskpost.se', '0'
 UNION ALL
-SELECT 'email','*@slopsbox.com', '0', ''
+SELECT 'email','*@slopsbox.com', '0'
 UNION ALL
-SELECT 'email','*@smellfear.com', '0', ''
+SELECT 'email','*@smellfear.com', '0'
 UNION ALL
-SELECT 'email','*@snakemail.com', '0', ''
+SELECT 'email','*@snakemail.com', '0'
 UNION ALL
-SELECT 'email','*@sneakemail.com', '0', ''
+SELECT 'email','*@sneakemail.com', '0'
 UNION ALL
-SELECT 'email','*@sofimail.com', '0', ''
+SELECT 'email','*@sofimail.com', '0'
 UNION ALL
-SELECT 'email','*@sofort-mail.de', '0', ''
+SELECT 'email','*@sofort-mail.de', '0'
 UNION ALL
-SELECT 'email','*@sogetthis.com', '0', ''
+SELECT 'email','*@sogetthis.com', '0'
 UNION ALL
-SELECT 'email','*@soodonims.com', '0', ''
+SELECT 'email','*@soodonims.com', '0'
 UNION ALL
-SELECT 'email','*@spam.la', '0', ''
+SELECT 'email','*@spam.la', '0'
 UNION ALL
-SELECT 'email','*@spam.su', '0', ''
+SELECT 'email','*@spam.su', '0'
 UNION ALL
-SELECT 'email','*@spamavert.com', '0', ''
+SELECT 'email','*@spamavert.com', '0'
 UNION ALL
-SELECT 'email','*@spambob.com', '0', ''
+SELECT 'email','*@spambob.com', '0'
 UNION ALL
-SELECT 'email','*@spambob.net', '0', ''
+SELECT 'email','*@spambob.net', '0'
 UNION ALL
-SELECT 'email','*@spambob.org', '0', ''
+SELECT 'email','*@spambob.org', '0'
 UNION ALL
-SELECT 'email','*@spambog.com', '0', ''
+SELECT 'email','*@spambog.com', '0'
 UNION ALL
-SELECT 'email','*@spambog.de', '0', ''
+SELECT 'email','*@spambog.de', '0'
 UNION ALL
-SELECT 'email','*@spambog.ru', '0', ''
+SELECT 'email','*@spambog.ru', '0'
 UNION ALL
-SELECT 'email','*@spambox.info', '0', ''
+SELECT 'email','*@spambox.info', '0'
 UNION ALL
-SELECT 'email','*@spambox.irishspringrealty.com', '0', ''
+SELECT 'email','*@spambox.irishspringrealty.com', '0'
 UNION ALL
-SELECT 'email','*@spambox.us', '0', ''
+SELECT 'email','*@spambox.us', '0'
 UNION ALL
-SELECT 'email','*@spamcannon.com', '0', ''
+SELECT 'email','*@spamcannon.com', '0'
 UNION ALL
-SELECT 'email','*@spamcannon.net', '0', ''
+SELECT 'email','*@spamcannon.net', '0'
 UNION ALL
-SELECT 'email','*@spamcero.com', '0', ''
+SELECT 'email','*@spamcero.com', '0'
 UNION ALL
-SELECT 'email','*@spamcon.org', '0', ''
+SELECT 'email','*@spamcon.org', '0'
 UNION ALL
-SELECT 'email','*@spamcorptastic.com', '0', ''
+SELECT 'email','*@spamcorptastic.com', '0'
 UNION ALL
-SELECT 'email','*@spamcowboy.com', '0', ''
+SELECT 'email','*@spamcowboy.com', '0'
 UNION ALL
-SELECT 'email','*@spamcowboy.net', '0', ''
+SELECT 'email','*@spamcowboy.net', '0'
 UNION ALL
-SELECT 'email','*@spamcowboy.org', '0', ''
+SELECT 'email','*@spamcowboy.org', '0'
 UNION ALL
-SELECT 'email','*@spamday.com', '0', ''
+SELECT 'email','*@spamday.com', '0'
 UNION ALL
-SELECT 'email','*@spamex.com', '0', ''
+SELECT 'email','*@spamex.com', '0'
 UNION ALL
-SELECT 'email','*@spamfree24.com', '0', ''
+SELECT 'email','*@spamfree24.com', '0'
 UNION ALL
-SELECT 'email','*@spamfree24.de', '0', ''
+SELECT 'email','*@spamfree24.de', '0'
 UNION ALL
-SELECT 'email','*@spamfree24.eu', '0', ''
+SELECT 'email','*@spamfree24.eu', '0'
 UNION ALL
-SELECT 'email','*@spamfree24.info', '0', ''
+SELECT 'email','*@spamfree24.info', '0'
 UNION ALL
-SELECT 'email','*@spamfree24.net', '0', ''
+SELECT 'email','*@spamfree24.net', '0'
 UNION ALL
-SELECT 'email','*@spamfree24.org', '0', ''
+SELECT 'email','*@spamfree24.org', '0'
 UNION ALL
-SELECT 'email','*@spamgourmet.com', '0', ''
+SELECT 'email','*@spamgourmet.com', '0'
 UNION ALL
-SELECT 'email','*@spamgourmet.net', '0', ''
+SELECT 'email','*@spamgourmet.net', '0'
 UNION ALL
-SELECT 'email','*@spamgourmet.org', '0', ''
+SELECT 'email','*@spamgourmet.org', '0'
 UNION ALL
-SELECT 'email','*@SpamHereLots.com', '0', ''
+SELECT 'email','*@SpamHereLots.com', '0'
 UNION ALL
-SELECT 'email','*@SpamHerePlease.com', '0', ''
+SELECT 'email','*@SpamHerePlease.com', '0'
 UNION ALL
-SELECT 'email','*@spamhole.com', '0', ''
+SELECT 'email','*@spamhole.com', '0'
 UNION ALL
-SELECT 'email','*@spamify.com', '0', ''
+SELECT 'email','*@spamify.com', '0'
 UNION ALL
-SELECT 'email','*@spaminator.de', '0', ''
+SELECT 'email','*@spaminator.de', '0'
 UNION ALL
-SELECT 'email','*@spamkill.info', '0', ''
+SELECT 'email','*@spamkill.info', '0'
 UNION ALL
-SELECT 'email','*@spaml.com', '0', ''
+SELECT 'email','*@spaml.com', '0'
 UNION ALL
-SELECT 'email','*@spaml.de', '0', ''
+SELECT 'email','*@spaml.de', '0'
 UNION ALL
-SELECT 'email','*@spammotel.com', '0', ''
+SELECT 'email','*@spammotel.com', '0'
 UNION ALL
-SELECT 'email','*@spamobox.com', '0', ''
+SELECT 'email','*@spamobox.com', '0'
 UNION ALL
-SELECT 'email','*@spamoff.de', '0', ''
+SELECT 'email','*@spamoff.de', '0'
 UNION ALL
-SELECT 'email','*@spamslicer.com', '0', ''
+SELECT 'email','*@spamslicer.com', '0'
 UNION ALL
-SELECT 'email','*@spamspot.com', '0', ''
+SELECT 'email','*@spamspot.com', '0'
 UNION ALL
-SELECT 'email','*@spamthis.co.uk', '0', ''
+SELECT 'email','*@spamthis.co.uk', '0'
 UNION ALL
-SELECT 'email','*@spamthisplease.com', '0', ''
+SELECT 'email','*@spamthisplease.com', '0'
 UNION ALL
-SELECT 'email','*@spamtrail.com', '0', ''
+SELECT 'email','*@spamtrail.com', '0'
 UNION ALL
-SELECT 'email','*@speed.1s.fr', '0', ''
+SELECT 'email','*@speed.1s.fr', '0'
 UNION ALL
-SELECT 'email','*@supergreatmail.com', '0', ''
+SELECT 'email','*@supergreatmail.com', '0'
 UNION ALL
-SELECT 'email','*@supermailer.jp', '0', ''
+SELECT 'email','*@supermailer.jp', '0'
 UNION ALL
-SELECT 'email','*@suremail.info', '0', ''
+SELECT 'email','*@suremail.info', '0'
 UNION ALL
-SELECT 'email','*@teewars.org', '0', ''
+SELECT 'email','*@teewars.org', '0'
 UNION ALL
-SELECT 'email','*@teleworm.com', '0', ''
+SELECT 'email','*@teleworm.com', '0'
 UNION ALL
-SELECT 'email','*@tempalias.com', '0', ''
+SELECT 'email','*@tempalias.com', '0'
 UNION ALL
-SELECT 'email','*@tempe-mail.com', '0', ''
+SELECT 'email','*@tempe-mail.com', '0'
 UNION ALL
-SELECT 'email','*@tempemail.biz', '0', ''
+SELECT 'email','*@tempemail.biz', '0'
 UNION ALL
-SELECT 'email','*@tempemail.com', '0', ''
+SELECT 'email','*@tempemail.com', '0'
 UNION ALL
-SELECT 'email','*@TempEMail.net', '0', ''
+SELECT 'email','*@TempEMail.net', '0'
 UNION ALL
-SELECT 'email','*@tempinbox.co.uk', '0', ''
+SELECT 'email','*@tempinbox.co.uk', '0'
 UNION ALL
-SELECT 'email','*@tempinbox.com', '0', ''
+SELECT 'email','*@tempinbox.com', '0'
 UNION ALL
-SELECT 'email','*@tempmail.it', '0', ''
+SELECT 'email','*@tempmail.it', '0'
 UNION ALL
-SELECT 'email','*@tempmail2.com', '0', ''
+SELECT 'email','*@tempmail2.com', '0'
 UNION ALL
-SELECT 'email','*@tempomail.fr', '0', ''
+SELECT 'email','*@tempomail.fr', '0'
 UNION ALL
-SELECT 'email','*@temporarily.de', '0', ''
+SELECT 'email','*@temporarily.de', '0'
 UNION ALL
-SELECT 'email','*@temporarioemail.com.br', '0', ''
+SELECT 'email','*@temporarioemail.com.br', '0'
 UNION ALL
-SELECT 'email','*@temporaryemail.net', '0', ''
+SELECT 'email','*@temporaryemail.net', '0'
 UNION ALL
-SELECT 'email','*@temporaryforwarding.com', '0', ''
+SELECT 'email','*@temporaryforwarding.com', '0'
 UNION ALL
-SELECT 'email','*@temporaryinbox.com', '0', ''
+SELECT 'email','*@temporaryinbox.com', '0'
 UNION ALL
-SELECT 'email','*@thanksnospam.info', '0', ''
+SELECT 'email','*@thanksnospam.info', '0'
 UNION ALL
-SELECT 'email','*@thankyou2010.com', '0', ''
+SELECT 'email','*@thankyou2010.com', '0'
 UNION ALL
-SELECT 'email','*@thisisnotmyrealemail.com', '0', ''
+SELECT 'email','*@thisisnotmyrealemail.com', '0'
 UNION ALL
-SELECT 'email','*@throwawayemailaddress.com', '0', ''
+SELECT 'email','*@throwawayemailaddress.com', '0'
 UNION ALL
-SELECT 'email','*@tilien.com', '0', ''
+SELECT 'email','*@tilien.com', '0'
 UNION ALL
-SELECT 'email','*@tmailinator.com', '0', ''
+SELECT 'email','*@tmailinator.com', '0'
 UNION ALL
-SELECT 'email','*@tradermail.info', '0', ''
+SELECT 'email','*@tradermail.info', '0'
 UNION ALL
-SELECT 'email','*@trash-amil.com', '0', ''
+SELECT 'email','*@trash-amil.com', '0'
 UNION ALL
-SELECT 'email','*@trash-mail.at', '0', ''
+SELECT 'email','*@trash-mail.at', '0'
 UNION ALL
-SELECT 'email','*@trash-mail.com', '0', ''
+SELECT 'email','*@trash-mail.com', '0'
 UNION ALL
-SELECT 'email','*@trash-mail.de', '0', ''
+SELECT 'email','*@trash-mail.de', '0'
 UNION ALL
-SELECT 'email','*@trash2009.com', '0', ''
+SELECT 'email','*@trash2009.com', '0'
 UNION ALL
-SELECT 'email','*@trashemail.de', '0', ''
+SELECT 'email','*@trashemail.de', '0'
 UNION ALL
-SELECT 'email','*@trashmail.at', '0', ''
+SELECT 'email','*@trashmail.at', '0'
 UNION ALL
-SELECT 'email','*@trashmail.com', '0', ''
+SELECT 'email','*@trashmail.com', '0'
 UNION ALL
-SELECT 'email','*@trashmail.de', '0', ''
+SELECT 'email','*@trashmail.de', '0'
 UNION ALL
-SELECT 'email','*@trashmail.me', '0', ''
+SELECT 'email','*@trashmail.me', '0'
 UNION ALL
-SELECT 'email','*@trashmail.net', '0', ''
+SELECT 'email','*@trashmail.net', '0'
 UNION ALL
-SELECT 'email','*@trashmail.org', '0', ''
+SELECT 'email','*@trashmail.org', '0'
 UNION ALL
-SELECT 'email','*@trashmail.ws', '0', ''
+SELECT 'email','*@trashmail.ws', '0'
 UNION ALL
-SELECT 'email','*@trashmailer.com', '0', ''
+SELECT 'email','*@trashmailer.com', '0'
 UNION ALL
-SELECT 'email','*@trashymail.com', '0', ''
+SELECT 'email','*@trashymail.com', '0'
 UNION ALL
-SELECT 'email','*@trashymail.net', '0', ''
+SELECT 'email','*@trashymail.net', '0'
 UNION ALL
-SELECT 'email','*@trillianpro.com', '0', ''
+SELECT 'email','*@trillianpro.com', '0'
 UNION ALL
-SELECT 'email','*@turual.com', '0', ''
+SELECT 'email','*@turual.com', '0'
 UNION ALL
-SELECT 'email','*@twinmail.de', '0', ''
+SELECT 'email','*@twinmail.de', '0'
 UNION ALL
-SELECT 'email','*@tyldd.com', '0', ''
+SELECT 'email','*@tyldd.com', '0'
 UNION ALL
-SELECT 'email','*@uggsrock.com', '0', ''
+SELECT 'email','*@uggsrock.com', '0'
 UNION ALL
-SELECT 'email','*@upliftnow.com', '0', ''
+SELECT 'email','*@upliftnow.com', '0'
 UNION ALL
-SELECT 'email','*@uplipht.com', '0', ''
+SELECT 'email','*@uplipht.com', '0'
 UNION ALL
-SELECT 'email','*@venompen.com', '0', ''
+SELECT 'email','*@venompen.com', '0'
 UNION ALL
-SELECT 'email','*@veryrealemail.com', '0', ''
+SELECT 'email','*@veryrealemail.com', '0'
 UNION ALL
-SELECT 'email','*@viditag.com', '0', ''
+SELECT 'email','*@viditag.com', '0'
 UNION ALL
-SELECT 'email','*@viewcastmedia.com', '0', ''
+SELECT 'email','*@viewcastmedia.com', '0'
 UNION ALL
-SELECT 'email','*@viewcastmedia.net', '0', ''
+SELECT 'email','*@viewcastmedia.net', '0'
 UNION ALL
-SELECT 'email','*@viewcastmedia.org', '0', ''
+SELECT 'email','*@viewcastmedia.org', '0'
 UNION ALL
-SELECT 'email','*@webm4il.info', '0', ''
+SELECT 'email','*@webm4il.info', '0'
 UNION ALL
-SELECT 'email','*@wegwerfadresse.de', '0', ''
+SELECT 'email','*@wegwerfadresse.de', '0'
 UNION ALL
-SELECT 'email','*@wegwerfemail.de', '0', ''
+SELECT 'email','*@wegwerfemail.de', '0'
 UNION ALL
-SELECT 'email','*@wegwerfmail.de', '0', ''
+SELECT 'email','*@wegwerfmail.de', '0'
 UNION ALL
-SELECT 'email','*@wegwerfmail.net', '0', ''
+SELECT 'email','*@wegwerfmail.net', '0'
 UNION ALL
-SELECT 'email','*@wegwerfmail.org', '0', ''
+SELECT 'email','*@wegwerfmail.org', '0'
 UNION ALL
-SELECT 'email','*@wetrainbayarea.com', '0', ''
+SELECT 'email','*@wetrainbayarea.com', '0'
 UNION ALL
-SELECT 'email','*@wetrainbayarea.org', '0', ''
+SELECT 'email','*@wetrainbayarea.org', '0'
 UNION ALL
-SELECT 'email','*@wh4f.org', '0', ''
+SELECT 'email','*@wh4f.org', '0'
 UNION ALL
-SELECT 'email','*@whyspam.me', '0', ''
+SELECT 'email','*@whyspam.me', '0'
 UNION ALL
-SELECT 'email','*@willselfdestruct.com', '0', ''
+SELECT 'email','*@willselfdestruct.com', '0'
 UNION ALL
-SELECT 'email','*@winemaven.info', '0', ''
+SELECT 'email','*@winemaven.info', '0'
 UNION ALL
-SELECT 'email','*@wronghead.com', '0', ''
+SELECT 'email','*@wronghead.com', '0'
 UNION ALL
-SELECT 'email','*@wuzup.net', '0', ''
+SELECT 'email','*@wuzup.net', '0'
 UNION ALL
-SELECT 'email','*@wuzupmail.net', '0', ''
+SELECT 'email','*@wuzupmail.net', '0'
 UNION ALL
-SELECT 'email','*@www.e4ward.com', '0', ''
+SELECT 'email','*@www.e4ward.com', '0'
 UNION ALL
-SELECT 'email','*@www.gishpuppy.com', '0', ''
+SELECT 'email','*@www.gishpuppy.com', '0'
 UNION ALL
-SELECT 'email','*@www.mailinator.com', '0', ''
+SELECT 'email','*@www.mailinator.com', '0'
 UNION ALL
-SELECT 'email','*@wwwnew.eu', '0', ''
+SELECT 'email','*@wwwnew.eu', '0'
 UNION ALL
-SELECT 'email','*@xagloo.com', '0', ''
+SELECT 'email','*@xagloo.com', '0'
 UNION ALL
-SELECT 'email','*@xemaps.com', '0', ''
+SELECT 'email','*@xemaps.com', '0'
 UNION ALL
-SELECT 'email','*@xents.com', '0', ''
+SELECT 'email','*@xents.com', '0'
 UNION ALL
-SELECT 'email','*@xmaily.com', '0', ''
+SELECT 'email','*@xmaily.com', '0'
 UNION ALL
-SELECT 'email','*@xoxy.net', '0', ''
+SELECT 'email','*@xoxy.net', '0'
 UNION ALL
-SELECT 'email','*@yep.it', '0', ''
+SELECT 'email','*@yep.it', '0'
 UNION ALL
-SELECT 'email','*@yogamaven.com', '0', ''
+SELECT 'email','*@yogamaven.com', '0'
 UNION ALL
-SELECT 'email','*@yopmail.com', '0', ''
+SELECT 'email','*@yopmail.com', '0'
 UNION ALL
-SELECT 'email','*@yopmail.fr', '0', ''
+SELECT 'email','*@yopmail.fr', '0'
 UNION ALL
-SELECT 'email','*@yopmail.net', '0', ''
+SELECT 'email','*@yopmail.net', '0'
 UNION ALL
-SELECT 'email','*@ypmail.webarnak.fr.eu.org', '0', ''
+SELECT 'email','*@ypmail.webarnak.fr.eu.org', '0'
 UNION ALL
-SELECT 'email','*@yuurok.com', '0', ''
+SELECT 'email','*@yuurok.com', '0'
 UNION ALL
-SELECT 'email','*@zehnminutenmail.de', '0', ''
+SELECT 'email','*@zehnminutenmail.de', '0'
 UNION ALL
-SELECT 'email','*@zippymail.info', '0', ''
+SELECT 'email','*@zippymail.info', '0'
 UNION ALL
-SELECT 'email','*@zoaxe.com', '0', ''
+SELECT 'email','*@zoaxe.com', '0'
 UNION ALL
-SELECT 'email','*@zoemail.org', '0', ''
-
+SELECT 'email','*@zoemail.org', '0'
